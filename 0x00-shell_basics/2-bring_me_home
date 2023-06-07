@@ -1,2 +1,2 @@
 #!/bin/bash
-mv 2-bring_me_home /tmp/home/julien
+cp -
