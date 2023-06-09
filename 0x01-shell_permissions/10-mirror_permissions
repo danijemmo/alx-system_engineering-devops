@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --reference-olle
+chmod 753 hello
