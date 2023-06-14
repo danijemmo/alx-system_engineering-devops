@@ -1,0 +1,2 @@
+#!/bin/bashi
+printf "%x\n" $DECIMAL
